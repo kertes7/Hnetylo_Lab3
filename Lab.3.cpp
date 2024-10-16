@@ -8,7 +8,7 @@ int main() {
     int number;
     int sum = 0;
 
-    cout << "Введіть числа (0 для завершення):" << endl;
+    cout << "Введіть числа :" << endl;
 
     do {
         cin >> number;
